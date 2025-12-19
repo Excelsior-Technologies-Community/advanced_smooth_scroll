@@ -1,7 +1,7 @@
 name: advanced_smooth_scroll
 description: "A new Flutter package project."
 version: 0.0.1
-homepage: https://github.com/chetan9357/advanced_smooth_scroll
+homepage: https://github.com/Excelsior-Technologies-Community/advanced_smooth_scroll
 
 environment:
   sdk: ^3.8.1
